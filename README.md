@@ -1,4 +1,4 @@
-# Projeto final de módulo 2: Resilia Educação
+# Projeto final de módulo 2: Quero Dados na Minha Mesa - Resilia Educação
 
 ![banner projeto](https://media.discordapp.net/attachments/998703887278157824/1001915176129400933/unknown.png)
 
@@ -22,7 +22,7 @@
 
     1º - Clone o repositório do GitHub;
 
-    2º -  Inicie o arquivo "Projeto.py";
+    2º -  Inicie o arquivo "ProjetoM2.py";
 
     3º - Insira as informações que o programa pedir pelo terminal;
 
