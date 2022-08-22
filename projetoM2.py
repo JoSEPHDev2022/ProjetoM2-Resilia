@@ -5,7 +5,7 @@ from time import sleep
 
 class Questionario:
 
-    # Método que quando instanciado, cria o arquivo csv com o cabeçalho definido na linha 14.
+    # Método que quando instanciado, cria o arquivo csv com o cabeçalho definido na linha 13.
     def to_csv(self, item):
         self.item = item
 
@@ -78,7 +78,6 @@ class Questionario:
                     ciclo = False
                     sistema()
             ciclo = False
-
 #============================================================================================================================================================================================================================================#
 # Dicionário que vai abrigar o nome e a idade das pessoas entrevistadas
 dicionarioDados = {
